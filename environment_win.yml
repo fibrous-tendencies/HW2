@@ -200,4 +200,3 @@ dependencies:
   - pip:
       - torchaudio==2.4.1
       - torchvision==0.19.1
-prefix: C:\Users\Adam\miniforge3\envs\DESIGN-6197-4197-HW2
