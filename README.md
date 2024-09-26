@@ -1,7 +1,7 @@
 Welcome to homework 2. Again, you will need to clone this repo to your local machine. I have copied the instructions here for ease of access.
 
 >[!NOTE]
->There are now three environment files in this repository. When you create the environment with mamba for this assignment you need to ensure that you install the correct version for your computer. There is one environment_mac.yml file, an environment_win.yml for windows computers with compatible Nvidia GPUs, and an environment_win_cpu.yml for windows computers without compatible Nvidia GPUs. If you do not have a compatible gpu then training a network on your personal computer may take considerably more time. In this case I would recommend you use google colab to complete the assignment. Please contact me individually for help completing the assignment using google colab as the instructions for setting up the homework assignment will be different than those listed below. 
+>When you create the environment with mamba for this assignment you need to ensure that you install the correct version for your computer. There is one environment_default.yml file for Mac computers and windows machines that do not have nvidia gpus. There is also an environment_win.yml for windows computers with compatible Nvidia GPUs. If you do not have a compatible gpu then training a network on your personal computer may take considerably more time. In this case I would recommend you use google colab to complete the assignment. Please contact me individually for help completing the assignment using google colab as the instructions for setting up the homework assignment will be different than those listed below. 
 
  There will be instructions below for you to follow to set up your environment correctly.
 
